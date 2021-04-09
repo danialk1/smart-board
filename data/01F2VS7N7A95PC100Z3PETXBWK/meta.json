@@ -1,0 +1,17 @@
+{
+	"ulid": "01F2VS7N7A95PC100Z3PETXBWK",
+	"minTime": 1617976807119,
+	"maxTime": 1617984000000,
+	"stats": {
+		"numSamples": 22560,
+		"numSeries": 47,
+		"numChunks": 188
+	},
+	"compaction": {
+		"level": 1,
+		"sources": [
+			"01F2VS7N7A95PC100Z3PETXBWK"
+		]
+	},
+	"version": 1
+}
